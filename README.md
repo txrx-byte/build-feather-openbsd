@@ -40,5 +40,3 @@ make
 The compiler will pick up right where it left off, successfully compile the Trezor device objects, and finish the rest of the build.
 
 ---
-
-Would you like me to help you package this up into an actual `.patch` file format for the Monero/Feather upstream, or are you good to go with sharing this guide?
